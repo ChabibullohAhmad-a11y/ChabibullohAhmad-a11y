@@ -6,10 +6,10 @@ Fullstack Developer | Tech Enthusiast | Tech Learner
 
 ## 👨‍💻 About Me
 
-- 💻 Fullstack Developer passionate about building scalable web applications
-- 🚀 Currently working as Fullstack Developer
-- 📚 Currently learning modern backend ecosystem
-- 🔥 Interested in Backend Architecture, Microservices, and Distributed Systems
+- 💻 Fullstack Developer passionate about building scalable web applications.
+- 🚀 Currently working as Fullstack Developer.
+- 📚 Currently learning modern backend ecosystem.
+- 🔥 Interested in Backend Architecture, Microservices, and Distributed Systems.
 - 🌐 Based in Indonesia
 
 ---
